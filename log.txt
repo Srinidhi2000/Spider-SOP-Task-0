@@ -1,0 +1,10 @@
+git clone <http link> : this command is used to clone a remote repository to create a local repository
+git checkout -b <branch name> : this command is used to create a branch and then switch to it
+git add . :this is used to add all the files in the branch except those in .gitignore to the staging area or idex
+git commit -m 'comment' :this is used to create a commit without going into the vim editor
+git checkout <branch name> :this command is used to switch to the specified branch
+git status : this shows the status of the branch
+git merge <branch name> :this command is used to merge the specified branch with the current branch
+git push <remote> branch : this sends all the commits to the remote repository
+git pull <remote> : it fetches and merges the remote copy of the branch with the local copy 
+git vm log <old file> <new file> :renames the file
