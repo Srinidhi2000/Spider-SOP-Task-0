@@ -1,0 +1,12 @@
+GIT COMMANDS USED:-
+
+1)git clone [url]   -retrieve an entire repository from a hosted location via URL
+2)cd  - change directory
+3)ls   - lists what we have in current directory
+4)git branch -list your branches
+5)git branch [branch name]  - create a new branch at the current commit
+6)git checkout  -switch to another branch and check it out into your working directory
+7)git add [filename]   - add a file
+8)git commit -m "message"  - commit your staged content as a new commit snapshot
+9)git status   -show modified files in working directory, staged for your next commit
+10)git push [alias] [branch]  -Transmit local branch commits to the remote repository branch
