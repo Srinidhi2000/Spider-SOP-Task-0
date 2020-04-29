@@ -1,0 +1,5 @@
+git clone - for cloning repository
+git branch - for creating branch
+git checkout - for switching between branches
+git add - for adding files
+git commit - for commiting changes
