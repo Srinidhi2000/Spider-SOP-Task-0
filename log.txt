@@ -1,9 +1,10 @@
 List of the commands used and a short description of each 
 
-branch 
-checkout 
-merge
-add
-commit
-push
-clone
+init - initialises a local repository 
+branch - creates a new branch
+checkout - changes current branch
+merge - to merge contents of 2 branches
+add - add files to staging area
+commit - commit the files with a message and save them as a version 
+push - to push the files to remote repository
+clone - to clone files into local repository from remote repository
