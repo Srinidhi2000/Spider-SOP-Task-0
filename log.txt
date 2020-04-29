@@ -8,3 +8,11 @@ add - add files to staging area
 commit - commit the files with a message and save them as a version 
 push - to push the files to remote repository
 clone - to clone files into local repository from remote repository
+
+EGG
+
+
+This is because every organism has to develop from an Egg stage,
+while the CaCO3 shell covered egg might be a result of further evolution
+Technically the answer to the question is EGG
+
