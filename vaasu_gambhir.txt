@@ -1,0 +1,21 @@
+fork - to copy a repo to your profile. 
+changes you make will not be reflected in the repo from the profile you forked from
+
+clone - to download the repo to your system
+$ git clone https://github.com/(profile_name)/(repo_name)
+
+
+branch - creates a new branch in your repo
+$ git branch (branch_name)
+
+
+checkout - switches between branches
+$ git checkout (branch_name)
+
+
+add - used for adding text files to our repo
+$ git add (filename).txt
+
+
+commit - commits our text file to our repo
+$ git commit
