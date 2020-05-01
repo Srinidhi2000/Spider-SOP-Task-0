@@ -1,8 +1,0 @@
-git clone  - clone the remote repo to local system
-git branch - shows all the branches
-git branch branch_name - makes a new branch of specified name
-git merge branch - merges the specified branch to the current one
-git add files - adds the specified files to staged area for committing
-git commit -m "comment" - commits all the changes alongwith a comment
-git pull - to pull the most recent changes in the remote repo to local repo
-git push origin branch - pushes all the changes done in local repo to the specified branch in the remote repo
