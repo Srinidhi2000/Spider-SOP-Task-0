@@ -1,0 +1,12 @@
+fork - to copy a repo to your profile. 
+changes you make will not be reflected in the repo from the profile you forked from
+
+clone - to download the repo to your system
+
+branch - creates a new branch in your repo
+
+checkout - switches between branches
+
+add - used for adding text files to our repo
+
+commit - commits our text file to our repo
